@@ -578,17 +578,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee3e2188f547ff64b8133621738d7bb9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cardPrefab: {fileID: 1570944690634587712, guid: 120d5f71f401a5547809409deab086ba,
+  cardPrefab: {fileID: 3371720405279564942, guid: 120d5f71f401a5547809409deab086ba,
     type: 3}
   cards:
   - ID: 0
-    sprite: {fileID: 21300000, guid: 51e642b1128dc8245ad8eb72963cb125, type: 3}
+    sprite: {fileID: 21300000, guid: f5c81cafbdfd9a741a4934fc6ed400e8, type: 3}
   - ID: 1
-    sprite: {fileID: 21300000, guid: 5fe25cf99eba7cf4486ab3f35cf055c0, type: 3}
+    sprite: {fileID: 21300000, guid: 754157fe74c4df0449f5d3e4df2b476d, type: 3}
   - ID: 2
-    sprite: {fileID: 21300000, guid: 36f211f146ec19f4894fd701854344c3, type: 3}
+    sprite: {fileID: 21300000, guid: 5a6ff10243ac0084bb99b2173174a10a, type: 3}
   - ID: 3
-    sprite: {fileID: 21300000, guid: c6b9685d0451eb94f976fe26f49c639a, type: 3}
+    sprite: {fileID: 21300000, guid: 40c2c24d547fa724cbd289cb1ab03c85, type: 3}
   victoryPanel: {fileID: 356632379}
 --- !u!4 &1391192695
 Transform:
